@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Annie+Use+Your+Telescope&size=18&duration=3000&pause=2000&color=F7E600&center=true&vCenter=true&width=435&lines=Turning+ideas+into+meaningful+user+experiences.;UI%2FUX+and+Visualization+Enthusiast;Feel+free+to+reach+out+for+design+talks%2C+collaboration%2C+or+idea+sharing!" alt="Typing SVG" /></a>
 
 </div>
-<h1 align="center">Hi 👋, I'm Hizkia</h1>
+<h1 align="center">Hey there, I’m Hizkia!</h1>
 <h3 align="center">A passionate UI/UX and Visualization from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeedneego&label=Profile%20views&color=0e75b6&style=flat" alt="abeedneego" /> </p>
