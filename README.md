@@ -25,4 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abeedneego&show_icons=true&locale=en" alt="abeedneego" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abeedneego&theme=highcontrast" alt="abeedneego" /></p>
+<div style="display: flex; justify-content: center; align-items: center;">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abeedneego&theme=highcontrast" alt="abeedneego" /></p></div>
