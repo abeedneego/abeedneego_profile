@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeedneego&label=Profile%20views&color=0e75b6&style=flat" alt="abeedneego" /> </p>
 
-- 🔭 I’m currently study at [Del Institute of Technology](https://www.del.ac.id/)
+- 👩🏻‍💻 I’m currently study at [Del Institute of Technology](https://www.del.ac.id/)
 
-- 📫 How to reach me **hiizkiiabednego@gmail.com**
+- 📩 How to reach me **hiizkiiabednego@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
